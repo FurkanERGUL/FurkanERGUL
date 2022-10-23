@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FurkanERGUL
-- 👀 I’m interested in HTML5, CSS, Java, C++/C 
+- 👀 I’m interested in HTML5, CSS, Java, C++/C, Android, Arduino
 - 🌱 I’m currently learning WEB programming
 - 📫 How to reach me furkanergul92@gmail.com
 
